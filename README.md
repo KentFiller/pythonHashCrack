@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository documents my journey in practicing cybersecurity concepts through the development of a Python hash cracking tool. The project is inspired by a YouTube tutorial. My aim is to apply the knowledge acquired from various cybersecurity material.
+This repository documents my journey in practicing cybersecurity concepts through the development of a Python hash cracking tool. The project is adopted from a [YouTube tutorial](https://www.youtube.com/watch?v=eHugvb5NeI4). My aim is to use this project to apply the knowledge acquired from various cybersecurity material.
 The project makes use of a wordlist-based approach to attempt to crack hashed passwords for various hash algorithms, including MD5, SHA1, SHA224, SHA512, SHA256, and SHA384.
 
 <h2>Languages and Utilities Used</h2>
